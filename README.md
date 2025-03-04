@@ -1,0 +1,6 @@
+![Cart page](docs/cart_page.webp)
+![Newly listed page](docs/newly_listed_page.webp)
+![Popular items page](docs/popular_items_page.webp)
+![Recently sold page](docs/recently_sold_page.webp)
+![Search bar list](docs/search_bar_list.webp)
+![Specific game page](docs/specific_game_page.webp)
